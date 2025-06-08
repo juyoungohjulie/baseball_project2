@@ -10,8 +10,7 @@ dataset kaggle link: https://www.kaggle.com/datasets/pschale/mlb-pitch-data-2015
 
 ### Settings
 
-requirements.txt에는 tensorflow가 주석처리 되어있습니다.
+python3 main.py 혹은
 
-mac 환경에서는 arm에 맞는 tensorflow를 사용하시고, windows에서는 주석 해제하고 requirements.txt 다운로드 해주세요.
-
-*실험은 conda 가상환경에서 진행되었습니다.
+python main.py
+로 실행이 가능합니다.
