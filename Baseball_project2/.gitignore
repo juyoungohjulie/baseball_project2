@@ -1,0 +1,9 @@
+*.pth
+*.pkl
+*.h5
+figures/
+__pycache__/
+*.txt
+data/
+results/
+*.csv
